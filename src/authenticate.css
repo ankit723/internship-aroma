@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-img{
+    position: absolute;
+    top: -25vh;
+    left: -5vw;
+    object-fit: cover;
+    z-index: -1;
+}
+
+
+.mid-img{
+    top: 5vh;
+    left: 50vw;
+}
+
+.heading{
+    margin-bottom: 4rem;
+    color: white;
+}
+
+.form_control{
+    margin-top: 3rem;
+    margin-left: 5rem;
+}
+
+.form_elements{
+    padding-bottom: 2rem;
+}
+
+.authlabel{
+    color: white;
+    font-size: 1.3rem;
+}
+
+.names{
+    display: flex;
+}
+
+.f_names{
+    padding-right: 3rem;
+}
+
+.input{
+    border: none;
+    border-bottom: 1px solid #ffffff;
+    outline: none;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+}
+
+#email, #password, #companyname, #number, #universityname{
+    width: 25.5rem;
+}
+
+.reg_btn{
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    padding: 0.5rem 3rem;
+    background: #554CB9;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    
+}
+
+.rule-container {
+    display: flex;
+    align-items: center;
+    margin-top: 4rem;
+    justify-content: center;
+    
+}
+  
+.rule-line {
+    flex-grow: 1;
+    height: 1px;
+    background-color: gray;
+    margin-right: 10px;
+    margin-left: 10px;
+    max-width: 10rem;
+}
+
+.rule-text {
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: gray;
+}
+
+.alt-login{
+    margin-top: 2rem;
+}
+.alt-login ul{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.alt-login ul li{
+    margin: 0 10px;
+}
+
+.alt-login ul li a img{
+    height: 3rem;
+    width: 3rem;
+}
+
+@media screen and (max-width: 800px) {
+
+    .heading{
+        font-size: 5.5rem;
+        color: rgb(255, 255, 255);
+        margin-top: 8rem;
+        margin-right: -32rem;
+        text-align: left;
+    }
+    
+
+    .authlabel{
+        font-size: 3rem;
+        color: black;
+    }
+    .input{
+        border-color: black;
+        font-size: 3rem;
+    }
+    .names{
+        display: block;
+    }
+
+    .f_names{
+        padding-right: 1rem;
+    }
+    
+    #email, #password, #companyname, #universityname #number, #lastname, #firstname{
+        width: 35rem;
+    }
+
+    .reg-btn{
+        margin-left: 21rem;
+        font-size: 3.5rem;
+    }
+
+    .rule-container {
+        display: flex;
+        align-items: center;
+        margin-top: 6rem;
+        margin-left: 32rem;
+        justify-content: center;
+        
+    }
+
+    .rule-line {
+        flex-grow: 1;
+        height: 3px;
+        background-color: gray;
+        margin-right: 10px;
+        margin-left: 10px;
+        max-width: 10rem;
+    }
+    
+    .rule-text {
+        font-size: 4rem;
+        font-weight: 300;
+        color: gray;
+    }
+
+    .alt-login{
+        margin-top: 0rem;
+        margin-left: 32rem;
+    }
+
+    .alt-login ul{
+        display: flex;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        justify-content: center;
+    }
+    
+    .alt-login ul li{
+        margin: 0 30px;
+    }
+    
+    .img{
+        height: 8rem;
+        width: 8rem;
+    }
+
+    .mid-img {
+        top: 100vh;
+        left: 137vw;
+    }
+
+    .tr-img{
+        top: -25vh;
+        left: -5vw;
+    }
+    
+
+  } 	

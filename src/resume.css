@@ -1,0 +1,127 @@
+.second-nav{
+    box-shadow: 0px 8px 12px -1px rgba(0, 0, 0, 0.25);
+}
+/*resume*/
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#h3 {
+    color: #0C134F
+}
+
+#p {
+    color: #0C134F;
+    font-size: 20px;
+}
+#p1 {
+    color: #0C134F;
+    font-size: 20px;
+}
+
+.inputField {
+    display: none;
+}
+
+#table {
+    margin:0 auto ;
+    width:70% ;
+    height:159% ;
+    border-collapse: collapse;
+    border: 2px solid blue;
+    border-radius: 10px;
+    margin-bottom:7% ;
+        
+}
+
+.row1 {
+    padding-top:5%;
+}
+
+ul {
+    list-style: none;
+}
+
+.end {
+    color: #fff;
+}
+
+
+
+/*.row {
+    margin: 7%;
+    padding: top 3%; ;
+
+}*/
+
+
+
+.li- {
+    
+    font-size: 20px;
+   padding-left:3 ;
+    margin-top:6% ;
+}
+
+#insta-ico,  #lin-ico  {
+   margin:0.8% 0.8% ;
+}
+#face-ico {
+ margin:0.6% 0.6% ;
+}
+
+#yt-ico {
+    margin:1%;
+}
+
+
+#down-btn {
+    border: #0C134F;
+    text-align: center;
+}
+
+.internclass{
+    color: #fff;}
+
+#inter {
+    padding-left:12% ;}
+
+.jobclass{
+    color: #fff;
+    margin:0.1% 0.1% ;
+}
+.down{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 5rem;
+    margin-top: -3rem;
+}
+
+.label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, serif;
+    font-size: 1.5rem;
+    padding: 1.5rem 0;
+}
+
+.input{
+    border: none;
+    border-bottom: 1px solid #393939;
+    outline: none;
+    background-color: transparent;
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+}
+
+.details{
+    display: none;
+}
+
+ul{
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFF;
+}

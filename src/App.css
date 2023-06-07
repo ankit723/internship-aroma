@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.main-tag{
+  font-family: 'Be Vietnam Pro';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 161.01%;
+  letter-spacing: 0.02em;
+}
+
+.lead{
+  font-family: 'Be Vietnam';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 161.01%;
+  letter-spacing: 0.02em;
+}
+
+.search-bar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  box-shadow: 0px 4.16193px 13.8731px -2.77462px rgba(0, 0, 0, 0.25);
+  border-radius: 8.32385px;
+  margin-top: 9rem;
+}
+
+.course-heading{
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  letter-spacing: 0.02em;
+}
+
+.course-para{
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+}
+
+.carousel-div-item{
+  /* width: 50rem;
+  height: 20rem; */
+  background: linear-gradient(99.83deg, #3161B1 -14.34%, #F0C4F0 113.38%);
+  border-radius: 40px;
+}
+
+ul{
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  color: #FFFFFF;
+}
