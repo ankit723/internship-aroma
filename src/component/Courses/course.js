@@ -34,7 +34,7 @@ export function Course(){
                     <div class="container" style={{display: 'flex', justifyContent: "center", marginTop: "3rem"}}>
                         <ul class="nav justify-content-center">
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(133.95deg, #A2FFE3 -9.29%, #B9AFF9 122.73%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(133.95deg, #A2FFE3 -9.29%, #B9AFF9 122.73%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={course1} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>ADOBE PHOTOSHOP</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -60,7 +60,7 @@ export function Course(){
                             </li>
                             
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={morework1} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>COLOR THEORY</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -86,7 +86,7 @@ export function Course(){
                             </li>
                             
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(225.96deg, #B4FDCD -12.62%, #EDF8AB 113.1%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(225.96deg, #B4FDCD -12.62%, #EDF8AB 113.1%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={course3} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>GRAPHIC DESIGN</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -117,7 +117,7 @@ export function Course(){
                     <div class="container" style={{display: 'flex', justifyContent: "center"}}>
                         <ul class="nav justify-content-center">
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(135.38deg, #B4FAFF -2.63%, #FF99DC 100%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(135.38deg, #B4FAFF -2.63%, #FF99DC 100%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={course4} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>3D DESIGN</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -143,7 +143,7 @@ export function Course(){
                             </li>
                             
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(225.38deg, #FFD2D2 4.36%, #9DE1FF 120.71%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(225.38deg, #FFD2D2 4.36%, #9DE1FF 120.71%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={course5} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>UI / UX DESIGN</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -169,7 +169,7 @@ export function Course(){
                             </li>
                             
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={morework1} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>ILLUSTRATOR</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -210,7 +210,7 @@ export function Course(){
                     <div class="container" style={{display: 'flex', justifyContent: "center", marginTop: "3rem"}}>
                         <ul class="nav justify-content-center">
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(133.95deg, #A2FFE3 -9.29%, #B9AFF9 122.73%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(133.95deg, #A2FFE3 -9.29%, #B9AFF9 122.73%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={course1} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>ADOBE PHOTOSHOP</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -236,7 +236,7 @@ export function Course(){
                             </li>
                             
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={morework1} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>COLOR THEORY</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -262,7 +262,7 @@ export function Course(){
                             </li>
                             
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(225.96deg, #B4FDCD -12.62%, #EDF8AB 113.1%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(225.96deg, #B4FDCD -12.62%, #EDF8AB 113.1%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={course3} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>GRAPHIC DESIGN</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -293,7 +293,7 @@ export function Course(){
                     <div class="container" style={{display: 'flex', justifyContent: "center"}}>
                         <ul class="nav justify-content-center">
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(135.38deg, #B4FAFF -2.63%, #FF99DC 100%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(135.38deg, #B4FAFF -2.63%, #FF99DC 100%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={course4} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>3D DESIGN</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -319,7 +319,7 @@ export function Course(){
                             </li>
                             
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(225.38deg, #FFD2D2 4.36%, #9DE1FF 120.71%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(225.38deg, #FFD2D2 4.36%, #9DE1FF 120.71%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={course5} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>UI / UX DESIGN</h4>
                                     <div class="col-lg-0 mx-auto">
@@ -345,7 +345,7 @@ export function Course(){
                             </li>
                             
                             <li class="nav-item px-4">
-                                <div class="px-4 py-3 my-5 text-center" style={{maxWidth: "600px", margin: "1rem", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
+                                <div class="px-4 py-3 my-5 text-center all-courses" style={{maxWidth: "400px", margin: "1rem", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={morework1} alt="" style={{width:"10rem", height:"10rem"}}/>
                                     <h4 class="card-title fb-bold py-3" style={{color:"#0C2162"}}>ILLUSTRATOR</h4>
                                     <div class="col-lg-0 mx-auto">

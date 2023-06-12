@@ -12,7 +12,7 @@ export function Category() {
         <div class="container categorie-selecter" style={{marginTop: "5rem"}}>
           <div class="container" style={{display: "flex", justifyContent: "space-between"}}>
             <h1 style={{fontFamily: 'Proxima Nova', fontStyle: "normal", fontWeight: "400", fontSize: "40px", lineHeight: "161.01%",letterSpacing: "0.02em"}}>Explore by categories</h1>
-            <button type="button" class="btn btn-outline-primary"style={{border: "2px solid #554CB9", filter: "drop-shadow(0px 3px 4px rgb(0, 0, 0, 0.3))", borderRadius: "6px", fontFamily: 'Proxima Nova', fontStyle: "normal", fontWeight: "400", fontSize: "19px", lineHeight: "161.01%", letterSpacing: "0.02em", color: "#554CB9"}}>All Category</button>
+            <button type="button" class="btn btn-outline-primary categories-btn"style={{border: "2px solid #554CB9", filter: "drop-shadow(0px 3px 4px rgb(0, 0, 0, 0.3))", borderRadius: "6px", fontFamily: 'Proxima Nova', fontStyle: "normal", fontWeight: "400", fontSize: "19px", lineHeight: "161.01%", letterSpacing: "0.02em", color: "#554CB9"}}>All Category</button>
           </div>
 
           <div class="container" style={{display: 'flex', justifyContent: "center", marginTop: "5rem"}}>

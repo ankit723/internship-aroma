@@ -13,16 +13,16 @@ export function Company(){
 
             <ul class="nav justify-content-center" style={{marginTop: "5rem"}}>
                 <li class="nav-item">
-                <img src={company1} alt="" style={{height: "12rem", maxWidth: "22rem"}}/>
+                <img src={company1} alt="" className="company-img" style={{height: "12rem", maxWidth: "22rem"}}/>
                 </li>
                 <li class="nav-item">
-                <img src={company2} alt="" style={{height: "12rem", maxWidth: "22rem"}}/>
+                <img src={company2} alt="" className="company-img" style={{height: "12rem", maxWidth: "22rem"}}/>
                 </li>
                 <li class="nav-item">
-                <img src={company3} alt="" style={{height: "12rem", maxWidth: "22rem"}}/>
+                <img src={company3} alt="" className="company-img" style={{height: "12rem", maxWidth: "22rem"}}/>
                 </li>
                 <li class="nav-item">
-                <img src={company4} alt="" style={{height: "12rem", maxWidth: "22rem"}}/>
+                <img src={company4} alt="" className="company-img" style={{height: "12rem", maxWidth: "22rem"}}/>
                 </li>
             </ul>
         </div>

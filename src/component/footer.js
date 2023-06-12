@@ -38,7 +38,7 @@ export function Footer() {
                     </div>
                 
                     <div class="col-6 col-md-2 mb-3">
-                        <h5>Job Opportunities</h5>
+                        <h7>Job Opportunities</h7>
                         <ul class="nav flex-column">
                         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white" style={{fontWeight: "lighter", fontSize: "1rem"}}>Career Development Center</a></li>
                         <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-white" style={{fontWeight: "lighter", fontSize: "1rem"}}>Soft Skills Training </a></li>

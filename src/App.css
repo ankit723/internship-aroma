@@ -63,3 +63,27 @@ ul{
   line-height: 24px;
   color: #FFFFFF;
 }
+
+
+@media screen and (max-width: 340px){
+  .categories-btn{
+    display: none;
+  }
+
+  .card{
+    width: 13rem !important;
+  }
+  .company-img{
+    max-width: 15rem !important;
+  }
+  .all-courses{
+    max-width: 12rem !important;
+  }
+  .all-workshops img{
+    width:10rem !important;
+    height:10rem !important;
+  }
+  .all-workshop-ul-container li{
+    padding: 0 !important;
+  }
+}

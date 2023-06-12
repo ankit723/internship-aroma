@@ -169,9 +169,9 @@ export function Workshop(){
                     </div>
 
                     <div class="container" style={{display: 'flex', justifyContent: "center", marginTop: "5rem"}}>
-                        <ul class="nav justify-content-between">
-                            <li class="nav-item">
-                                <div class="px-4 py-5 my-5 text-center" style={{maxWidth: "350px", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
+                        <ul class="nav justify-content-between all-workshop-ul-container">
+                            <li class="nav-item px-5">
+                                <div class="px-4 py-5 my-5 text-center all-workshops" style={{maxWidth: "350px", background: "linear-gradient(225.96deg, rgb(255 192 229) -12.62%, rgb(255 207 210) 113.1%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={morework1} alt="" style={{width:"20rem", height:"20rem"}}/>
                                     <h3 class="card-title fb-bold" style={{color:"#0C2162"}}>WEB DEVELOPMENT</h3>
                                     <div class=" mx-auto">
@@ -198,8 +198,8 @@ export function Workshop(){
                                 </div>
                             </li>
                             
-                            <li class="nav-item">
-                                <div class="px-4 py-5 my-5 text-center" style={{maxWidth: "350px", background: "linear-gradient(225.96deg, rgb(171 224 235) -12.62%, rgb(169 231 234) 113.1%)",borderRadius: "12px"}}>
+                            <li class="nav-item px-5">
+                                <div class="px-4 py-5 my-5 text-center all-workshops" style={{maxWidth: "350px", background: "linear-gradient(225.96deg, rgb(171 224 235) -12.62%, rgb(169 231 234) 113.1%)",borderRadius: "12px"}}>
                                     <img class="d-block mx-auto mb-4" src={morework2} alt="" style={{width:"20rem", height:"20rem"}}/>
                                     <h3 class="card-title fb-bold" style={{color:"#0C2162"}}>ILLUSTRATOR</h3>
                                     <div class="mx-auto">
