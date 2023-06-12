@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Hs-Webtech-internship-aroma/static/css/main.9d4ecb55.css",
-    "main.js": "/Hs-Webtech-internship-aroma/static/js/main.2426cf56.js",
+    "main.css": "/Hs-Webtech-internship-aroma/static/css/main.ff291fa7.css",
+    "main.js": "/Hs-Webtech-internship-aroma/static/js/main.b87dd01c.js",
     "static/js/787.2da21a22.chunk.js": "/Hs-Webtech-internship-aroma/static/js/787.2da21a22.chunk.js",
     "static/media/auth_tr_bg.png": "/Hs-Webtech-internship-aroma/static/media/auth_tr_bg.b5d5d70cdc46605fb9b1.png",
     "static/media/profile-pic2.png": "/Hs-Webtech-internship-aroma/static/media/profile-pic2.4f86207d8902bb5c0a11.png",
@@ -35,12 +35,12 @@
     "static/media/highlights3.png": "/Hs-Webtech-internship-aroma/static/media/highlights3.5ca7ff5240ba656e43d9.png",
     "static/media/highlights4.png": "/Hs-Webtech-internship-aroma/static/media/highlights4.1a75e9e6b911bab7bff2.png",
     "index.html": "/Hs-Webtech-internship-aroma/index.html",
-    "main.9d4ecb55.css.map": "/Hs-Webtech-internship-aroma/static/css/main.9d4ecb55.css.map",
-    "main.2426cf56.js.map": "/Hs-Webtech-internship-aroma/static/js/main.2426cf56.js.map",
+    "main.ff291fa7.css.map": "/Hs-Webtech-internship-aroma/static/css/main.ff291fa7.css.map",
+    "main.b87dd01c.js.map": "/Hs-Webtech-internship-aroma/static/js/main.b87dd01c.js.map",
     "787.2da21a22.chunk.js.map": "/Hs-Webtech-internship-aroma/static/js/787.2da21a22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d4ecb55.css",
-    "static/js/main.2426cf56.js"
+    "static/css/main.ff291fa7.css",
+    "static/js/main.b87dd01c.js"
   ]
 }
